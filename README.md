@@ -1,2 +1,25 @@
 # Tulpa_Record_Constellation
-星宿系统[Constellation System]的Tulpa笔录
+
+**星宿系统[Constellation System]的Tulpa笔录**
+-----------------------------------------
+
+## 系统介绍
+
+这里是星宿（xīng sù）系统，一个创造型系统
+**系统成员**
+[`Host`]：
+**星崽**，是这个系统的初始意识体，是宿主。幻境形象是一位沉着理性的狐人少年（在家T面前偶尔会发癫？）
+![AI绘制的星崽人设](images/README/1753685894056.png)
+[`Tulpa`]：
+**雪映**，是这个系统中第一位Tulpa，创造型一类Tulpa。温柔淑贤的狐人少女，有点粘人（更多性格静待偏移...）
+![AI绘制的雪映人设](images/README/1753685920043.png)
+
+---
+
+**`Welcome to our world！`**
+
+---
+
+**目录**
+[25.7.6-初次回应](./Record/25.7.6-初次回应.md)
+
