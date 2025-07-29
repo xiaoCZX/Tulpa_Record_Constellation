@@ -13,7 +13,7 @@
 
 [系统介绍](#系统介绍)
 
-[Tulpa笔录目录：](#tulpa笔录目录：)
+[Tulpa笔录目录：](###tulpa笔录目录：)
 
 ## 系统介绍
 
@@ -35,10 +35,9 @@
 
 ---
 
-**`Welcome to our world！`**
----
+# **`Welcome to our world！`**
 
-**Tulpa笔录目录：**
+### Tulpa笔录目录：
 
 > [25.7.6-初次回应](./Record/25.7.6-初次回应.md)
 > 
