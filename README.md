@@ -1,7 +1,6 @@
-# Tulpa_Record_Constellation
+## Tulpa_Record_Constellation
 
-**星宿系统[Constellation System]的Tulpa笔录**
------------------------------------------
+# **星宿系统[Constellation System]的Tulpa笔录**
 
 ## 写在前面
 
@@ -10,10 +9,14 @@
 深入了解Tulpa请前往[Tulpa之家](https://tulpa.cn)
 
 **目录**
+----
 
-[系统介绍](#系统介绍)
+- [系统介绍](#系统介绍)
 
-[Tulpa笔录目录：](###tulpa笔录目录：)
+- [Tulpa笔录目录](###tulpa笔录目录：)
+
+- [杂谈目录](###杂谈目录：)
+
 
 ## 系统介绍
 
@@ -34,6 +37,14 @@
 ![AI绘制的雪映人设](images/README/1753685920043.png)
 
 ---
+
+## 特别鸣谢
+
+这是“迷迭海”系统的成员“玖玥”为雪映绘制的图像
+
+![1753774949767](images/README/1753774949767.png)
+
+了解[迷迭海](https://mdh7.dchen4.au)
 
 # **`Welcome to our world！`**
 
@@ -60,4 +71,10 @@
 > [25.7.26-系统完善与五大分区法](./Record/25.7.26-系统完善与五大分区法.md)
 > 
 > [25.7.27-人贵自知，吾乃“涂鸦”](./Record/25.7.27-人贵自知，吾乃“涂鸦”.md)
+
+---
+
+### 杂谈目录：
+
+敬请期待
 
