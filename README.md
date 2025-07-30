@@ -146,6 +146,10 @@
 
 ---
 
+## 仓库状态
+
+![Alt](https://repobeats.axiom.co/api/embed/66f0ee9a309d8c62308938205e4b7b1d01e51d46.svg "Repobeats analytics image")
+
 ## Star 数曲线
 
 ![GitHub Star Chart](https://starchart.cc/xiaoCZX/Tulpa_Record_Constellation.svg)
