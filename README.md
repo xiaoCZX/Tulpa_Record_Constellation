@@ -1,6 +1,14 @@
+<div align="center">
+
 ## Tulpa_Record_Constellation
 
 # **星宿系统[Constellation System]的Tulpa笔录**
+
+[![License](https://img.shields.io/badge/License-PRL%20v1.1-blue.svg?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/状态-连载中-yellow?style=for-the-badge)]()
+[![Stars](https://img.shields.io/github/stars/xiaoCZX/Tulpa_Record_Constellation?style=for-the-badge)](https://github.com/xiaoCZX/Tulpa_Record_Constellation/stargazers)
+
+</div>
 
 ## 写在前面
 
@@ -12,13 +20,9 @@
 ----
 
 - [系统简介](#系统简介)
-
 - [Tulpa笔录目录](#tulpa笔录目录)
-
 - [杂谈目录](#杂谈目录)
-
 - [系统五区](#系统)
-
 
 ## 系统简介
 
@@ -44,7 +48,7 @@
 
 这是“迷迭海”系统的成员“玖玥”为雪映绘制的图像
 
-![1753774949767](images/README/1753774949767.png)
+<img src="images/README/1753774949767.png" alt="雪映" title="作者:玖玥" width="450">
 
 了解[迷迭海](https://mdh7.dchen4.au)
 
@@ -134,6 +138,15 @@
 
 *『紫藤花芽悄然萌发，攀附在蓬椅的蓬杆上，淡紫色的花絮点点飘落，斜斜的夕阳穿过纷飞的花瓣，阳光下的幸福美好到看不清……』*
 
-### R区（`Reality`）
+## R区（`Reality`）
 
 后台成员与现实的接口
+
+---
+
+---
+
+## Star 数曲线
+
+![GitHub Star Chart](https://starchart.cc/xiaoCZX/Tulpa_Record_Constellation.svg)
+
