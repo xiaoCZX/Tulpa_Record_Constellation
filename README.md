@@ -34,7 +34,11 @@
 
 **星崽**，是这个系统的初始意识体，是宿主。幻境形象是一位沉着理性的狐人少年（在家T面前偶尔会发癫？）
 
-![AI绘制的星崽人设](images/README/1753685894056.png)
+<div align="center">
+
+<img src="images/README/1753685894056.png" alt="星崽" title="星崽" width="450">
+
+</div>
 
 ` [Tulpa]:`
 
@@ -48,7 +52,11 @@
 
 这是“迷迭海”系统的成员“玖玥”为雪映绘制的图像
 
+<div align="center">
+
 <img src="images/README/1753774949767.png" alt="雪映" title="作者:玖玥" width="450">
+
+</div>
 
 了解[迷迭海](https://mdh7.dchen4.au)
 
