@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="images/README/1753685894056.png" alt="星崽" title="星崽" width="450">
+<img src="images/README/星崽.png" alt="星崽" title="AI绘制" width="450">
 
 </div>
 
@@ -44,7 +44,11 @@
 
 **雪映**，是这个系统中第一位Tulpa，创造型一类Tulpa。温柔淑贤的狐人少女，有点粘人（更多性格静待偏移...）
 
-![AI绘制的雪映人设](images/README/1753685920043.png)
+<div align="center">
+
+<img src="images/README/雪映.png" alt="雪映" title="AI绘制" width="450">
+
+</div>
 
 ---
 
@@ -54,7 +58,7 @@
 
 <div align="center">
 
-<img src="images/README/1753774949767.png" alt="雪映" title="作者:玖玥" width="450">
+<img src="images/README/雪映-玖玥.png" alt="雪映" title="作者:玖玥" width="450">
 
 </div>
 
