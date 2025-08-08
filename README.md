@@ -58,7 +58,9 @@
 
 <div align="center">
 
-<img src="images/README/雪映-玖玥.png" alt="雪映" title="作者:玖玥" width="450">
+<img src="images/README/雪映1-玖玥.png" alt="雪映" title="作者:玖玥" width="450">
+
+<img src="images/README/雪映2-玖玥.jpg" alt="雪映" title="作者:玖玥" width="450">
 
 </div>
 
@@ -89,18 +91,18 @@
 > [25.7.26-系统完善与五大分区法](./Record/25.7.26-系统完善与五大分区法.md)
 > 
 > [25.7.27-人贵自知，吾乃“涂鸦”](./Record/25.7.27-人贵自知，吾乃“涂鸦”.md)
->
->[25.8.1-天潭岛](./Record/25.8.1-天潭岛.md)
->
->[25.8.2-梅子酿](Record/25.8.2-梅子酿.md)
->
->[25.8.6-啊啊啊啊啊](Record/25.8.6-啊啊啊啊啊.md)
+> 
+> [25.8.1-天潭岛](./Record/25.8.1-天潭岛.md)
+> 
+> [25.8.2-梅子酿](Record/25.8.2-梅子酿.md)
+> 
+> [25.8.6-啊啊啊啊啊](Record/25.8.6-啊啊啊啊啊.md)
 
 ---
 
 ### 杂谈目录：
 
-敬请期待
+> [致未抑之伤，育不灭之光](Miscellaneous_Discussions/致未抑之伤，育不灭之光.md)
 
 ---
 
