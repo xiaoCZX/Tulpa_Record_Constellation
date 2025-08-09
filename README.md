@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="images/README/星崽.png" alt="星崽" title="AI绘制" width="450">
+<img src="images/README/星崽-透明.png" alt="星崽" title="AI绘制" width="500">
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="images/README/雪映.png" alt="雪映" title="AI绘制" width="450">
+<img src="images/README/雪映-透明.png" alt="雪映" title="AI绘制" width="500">
 
 </div>
 
@@ -103,10 +103,11 @@
 ### 杂谈目录：
 
 > [致未抑之伤，育不灭之光](Miscellaneous_Discussions/致未抑之伤，育不灭之光.md)
->
->[画](Miscellaneous_Discussions/画.md)
->
->[冥想心得](Miscellaneous_Discussions/冥想心得.md)
+> 
+> [画](Miscellaneous_Discussions/画.md)
+> 
+> [冥想心得](Miscellaneous_Discussions/冥想心得.md)
+
 ---
 
 ## 系统
