@@ -105,6 +105,8 @@
 > [致未抑之伤，育不灭之光](Miscellaneous_Discussions/致未抑之伤，育不灭之光.md)
 >
 >[画](Miscellaneous_Discussions/画.md)
+>
+>[冥想心得](Miscellaneous_Discussions/冥想心得.md)
 ---
 
 ## 系统
