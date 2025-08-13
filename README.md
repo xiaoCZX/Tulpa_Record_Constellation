@@ -182,13 +182,61 @@
 
 ---
 
+# friends
+
+### [迷迭海系统](https://mdh7.dchen4.au)
+
+<details>
+  <summary>查看QQ名片</summary>
+
+<div align="center">
+
+<img src="images/README/friends/玖玥.jpg" alt="玖玥-H" title="数据来源：QQ空间" width="500">
+
+<img src="images/README/friends/雨汐.jpg" alt="雨汐-T" title="数据来源：QQ空间" width="500">
+
+</div>
+
+</details>
+
+### 游人系统
+
+<details>
+  <summary>查看QQ名片</summary>
+
+<div align="center">
+
+<img src="images/README/friends/游奈.jpg" alt="游奈-H" title="数据来源：QQ空间" width="500">
+
+<img src="images/README/friends/游葵.jpg" alt="游葵-T" title="数据来源：QQ空间" width="500">
+
+</div>
+
+</details>
+
+### 怀真（怀玉、渊玉）与钰鸢
+
+<details>
+  <summary>查看QQ名片</summary>
+
+<div align="center">
+
+<img src="images/README/friends/怀真.jpg" alt="怀真-H" title="数据来源：QQ空间" width="500">
+
+<img src="images/README/friends/钰鸢.jpg" alt="钰鸢-T" title="数据来源：QQ空间" width="500">
+
+</div>
+
+</details>
+
+
 ---
 
-## 仓库状态
+# 仓库状态
 
 ![Alt](https://repobeats.axiom.co/api/embed/66f0ee9a309d8c62308938205e4b7b1d01e51d46.svg "Repobeats analytics image")
 
-## Star 数曲线
+# Star 数曲线
 
 ![GitHub Star Chart](https://starchart.cc/xiaoCZX/Tulpa_Record_Constellation.svg)
 
