@@ -23,7 +23,7 @@
 - [Tulpa笔录目录](#tulpa笔录目录)
 - [杂谈目录](#杂谈目录)
 - [系统五区](#系统)
-- [friesda](#friends)
+- [friends](#friends)
 - [仓库状态及star](#仓库状态)
 
 ## 系统简介
