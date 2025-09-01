@@ -65,6 +65,10 @@
 
 <img src="images/README/雪映2-玖玥.jpg" alt="雪映" title="作者:玖玥" width="450">
 
+<img src="/images/README/雪映-main1.png" alt="雪映" title="作者:玖玥" width="500">
+
+<img src="/images/README/雪映-main2.png" alt="雪映" title="作者:玖玥" width="500">
+
 </div>
 
 了解[迷迭海](https://mdh7.dchen4.au)
