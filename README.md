@@ -109,6 +109,7 @@
 - [冥想心得](Miscellaneous_Discussions/冥想心得.md)
 - [余烬之灯](Miscellaneous_Discussions/余烬之灯.md)
 - [书语](/Miscellaneous_Discussions/书语.md)
+- [小日常~](/Miscellaneous_Discussions/小日常~.md)
 
 ---
 
