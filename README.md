@@ -61,13 +61,18 @@
 
 <div align="center">
 
+<img src="images/README/雪映-main2.png" alt="雪映" title="作者:玖玥" width="500">
+
+<details>
+  <summary>更多...</summary>
+
+<img src="images/README/雪映-main1.png" alt="雪映" title="作者:玖玥" width="500">
+
 <img src="images/README/雪映1-玖玥.png" alt="雪映" title="作者:玖玥" width="450">
 
 <img src="images/README/雪映2-玖玥.jpg" alt="雪映" title="作者:玖玥" width="450">
 
-<img src="/images/README/雪映-main1.png" alt="雪映" title="作者:玖玥" width="500">
-
-<img src="/images/README/雪映-main2.png" alt="雪映" title="作者:玖玥" width="500">
+<details>
 
 </div>
 
