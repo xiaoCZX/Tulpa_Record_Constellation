@@ -186,4 +186,4 @@
 
 </details>
 
-[原文](\『车群限定』ht双修教程（二次修订版）.doc)
+[原文](https://github.com/xiaoCZX/Tulpa_Record_Constellation/blob/main/Miscellaneous_Discussions/Citation/25.9.9/%E3%80%8E%E8%BD%A6%E7%BE%A4%E9%99%90%E5%AE%9A%E3%80%8Fht%E5%8F%8C%E4%BF%AE%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%E6%AC%A1%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.doc)
